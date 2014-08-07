@@ -1,0 +1,139 @@
+  <!DOCTYPE html>
+
+  <html>
+    <head>
+      <title>Login - Free Credit Scores & Credit Report Monitoring | Credit Karma</title>
+    </head>
+    <body>
+      <header itemscope itemtype="http://schema.org/Organization">
+        <h1>
+          <button>
+            <span itemprop="name"><a href="https://www.creditkarma.com/"><img itemprop="logo" src="[image location]">Credit Karma</a>
+            </span>
+          </button>
+        </h1>
+        <nav>
+          <ul role="presentation">
+            <h3 itemscope itemtype="http://schema.org/makesOffer" itemprop="makesOffer">
+              <li>Credit Cards</li>
+            </h3>
+            <h3 itemscope itemtype="http://schema.org/makesOffer" itemprop="makesOffer">
+              <li>Loans</li>
+            </h3>
+            <h3 itemscope itemtype="http://schema.org/review" itemprop="review">
+              <li>Reviews</li>
+            </h3>
+            <h3 itemscope itemtype="http://schema.org/relatedLink" itemprop="URL">
+              <li>Tools & Advice</li>
+            </h3>
+          </ul>
+        </nav>
+        <section>
+          Welcome back, [your user name!] Not you? [Login link]
+        </section>
+      </header>
+      <article>
+        <section itemscope itemtype="http://schema.org/primaryImageOfPage">
+          <span itemprop="ImageObject">
+            <img src="https://creditkarmacdn-a.akamaihd.net/res/images/auth/auth_03.png"/>
+          </span>
+        </section>
+        <section></section>n itemscope intemtype="http://schema.org/mainContentOfPage">
+          <span itemprop="WebPageElement">
+            Credit Karma's My Recommendations tool analyzes your credit and finances and shows you your top recommendations across all financial products.
+          </span>
+          <ul>
+            <li>Get an unbiased analysis of your financial profile. </li>
+            <li>Discover why we recommend certain products for you.</li>
+            <li>Read consumer product reviews before you decide to apply.</li>
+          </ul>
+          Log on to Credit Karma today to get your recommendations!
+        </section>
+      </article>
+      <section itemscope itemtype="https://schema.org/accessCode">
+        <h1>Log In to Your Account</h1>
+          <h6>Email Address</h6>
+            <div><span itemprop="accessCode">[login box]</span></div>
+          <h6>Password</h6>
+            <div><span itemprop="accessCode">[Password box]</span></div>
+          <div><input type="checkbox" aria-checked="false"/>[Check box]</div>
+          <h6>Remember my email next time</h6>
+        <div>[login button]Log In</div>
+        <h6>I need help accessing my account</h6>
+        <h4>Not a member yet?</h4>
+        <h6>Sign up now for free</h6>
+      </section>
+      <footer>
+        <section>
+          <h4>Connect & Share</h4>
+        </section>
+        <nav>
+          <h5>Company Info</h5>
+            <ul>
+              <li>About Credit Karma</li>
+              <li>Help Center</li>
+              <li>In The News</li>
+              <li>Out Security Practices</li>
+              <li>Careers</li>
+              <li>Terms of Use</li>
+              <li>Privacy Policy</li>
+              <li>Affiliate Network</li>
+            </ul>
+          <h5>Best Offers</h5>
+            <ul>
+              <li>Best Credit Cards</li>
+              <li>Capital One Credit Cards</li>
+              <li>Chase Credit Cards</li>
+              <li>Barclaycard Credit Card Offers</li>
+              <li>Chase Freedom</li>
+              <li>Personal Loans</li>
+            </ul>
+          <h5>Credit Resources</h5>
+            <ul>
+              <li>Credit Karma Blog</li>
+              <li>Financial Resources</li>
+              <li>Credit Score Simulator</li>
+              <li>Mortgage Calculator</li>
+              <li>Debt Repayment Calculator</li>
+              <li>Credit Card Reviews</li>
+              <li>Credit Advice</li>
+            </ul>
+          <h5>More Info</h5>
+            <ul>
+              <li>What is a Good Credit Score?</li>
+              <li>How to Improve Your Credit Health</li>
+              <li>Free Credit Monitoring</li>
+              <li>Free Credit Report Card</li>
+              <li>Auto Insurance Score</li>
+            </ul>
+        </nav>
+        <div>
+          <a property="privacy certification" href="https://privacy.truste.com/privacy-seal/Credit-Karma/validation?rid=397b697b-5c32-4826-828c-0b36aee9fb6c">
+            <img src="https://privacy-policy.truste.com/privacy-seal/Credit-Karma/seal?rid=397b697b-5c32-4826-828c-0b36aee9fb6c"/>
+          </a>
+        </div>
+        <div>
+          <a property="privacy certification" href="https://seal.digicert.com/seals/popup/?tag=0EscSmSQ&url=www.creditkarma.com&lang=en_US&cbr=1407378547675">
+            <img src="https://seal.digicert.com/seals/cascade/?s=0EscSmSQ,10,s,www.creditkarma.com"/>
+          </a>
+        </div>
+        <section itemscope itemtype="http://schema.org/WebPage">
+          <p>
+            <span itemprop="copyrightHolder">
+              Copyright© 2007-2014 Credit Karma™, Inc. Credit Karma is a registered trademark of Credit Karma, Inc. All Rights Reserved. Product name, logo, brands, and other trademarks featured or referred to within Credit Karma are the property of their respective trademark holders. This site may be compensated through third party advertisers.
+            </span>
+          </p>
+          <p>
+            <span itemprop="copyrightHolder">
+              iPhone is a trademark of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+            </span>
+          </p>
+          <p>
+            <span itemprop="copyrightHolder">
+              Android is a trademark of Google Inc.
+            </span>
+          </p>
+        </section>
+      </footer>
+    </body>
+  </html>
